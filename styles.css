@@ -6,8 +6,10 @@ body {
 }
 html {
     font-size: 10px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding:1em 110em;
+    color: rgb(228, 0, 0);
+    line-height: 5em;
 }
 .container {
     position: relative;
