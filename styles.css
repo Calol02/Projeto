@@ -35,7 +35,7 @@ button:hover{
 }
 
 form {
-    background:url(images/doodle-heart.avif);
+    background:rgb(228, 213, 213);
     background-size:contain;
     display: grid;
     gap: 0.5em;
